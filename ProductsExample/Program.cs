@@ -12,7 +12,7 @@ namespace ProductsExample
             var tree = new Product("Tree", Color.Brown, Size.Huge);
             var house = new Product("House", Color.Green, Size.Large);
             var skyScraper = new Product("Skyscraper", Color.Red, Size.Huge);
-            var footballPitch = new Product("Foodball pitch", Color.Green, Size.Large);
+            var footballPitch = new Product("Football pitch", Color.Green, Size.Large);
 
             Product[] products = {apple, tree, house, skyScraper, footballPitch};
 
